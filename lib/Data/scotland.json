@@ -1,0 +1,75 @@
+[
+    {
+    "name":"Loch Etive ",
+    "movie":"Harry Potter and the Deathly Hallows Part 1 ",
+    "shot":"The loch can be seen as a setting for Harry Hermione and Ron's camping trip. The scene was filmed at the northernmost part of the lake. ",
+    "fact":"Loch Etive is a 30 km sea loch in Argyll and Bute, Scotland. The name Etive is believed to mean “little ugly one” from the Gaelic Goddess associated with the loch. ",
+    "way":"Closest Town Taynuilt. From Glasgow Queen Street station, take First Scotrail train (Oban) to Taynuilt (2hrs 36mins).  ",
+    "price":"Free",      
+    "img1":"https://i.pinimg.com/originals/93/3e/26/933e26aae327ac5aff4e7184e3338f41.jpg"
+    
+},    
+{
+    "name":"Glen Coe ",
+    "movie":"Harry Potter and the Prisoner of Azkaban, the Goblet of Fire, the Order of the Phoenix, and the Deathly Hallows Part 2 ",
+    "shot":"Glen Coe was used to film multiple scenes. It is the location of Hagrid’s Hut, the bridge leading to the entrance of Hogwarts, and some scenes were also filmed at the nearby lake. ",
+    "fact":"In Scottish history Glen Coe is known as the glen of tears ",
+    "way":"Fort William is the nearest train station with daily train services operating between Glasgow and Fort William. ",
+    "price":"Free ",
+    "img1":"https://www.heraldscotland.com/resources/images/7899660/"
+},    
+{
+    "name":"Glenfinnan ",
+    "movie":"Harry Potter and the Chamber of Secrets, the Prisoner of Azkaban, and the Goblet of Fire ",
+    "shot":"The Glenfinnan Viaduct is the ‘bridge to Hogwarts’, where the Hogwarts Express makes its journey. ",
+    "fact":"The bridge is 380 metres long and 31 metres high. Its construction was finished in 1898 and cost £18,904. ",
+    "way":"enfinnan is the nearest train station with daily train services operating between Fort William and Glenfinnan. This service takes you over the Glenfinnan Viaduct itself before alighting at Glenfinnan. ",
+    "price":"Adults £8.80 ,Children (under 15) £4.40",
+    "img1":"https://upload.wikimedia.org/wikipedia/commons/1/17/Glenfinnan_Viaduct.jpg"
+},    
+{
+    "name":"Loch Eilit ",
+    "movie":"Harry Potter and the Chamber of Secrets, the Prisoner of Azkaban, the Goblet of Fire, the Deathly Hallows Part 2 ",
+    "shot":"Loch Eilt was used for exterior shots of the Hogwarts grounds and as the island location of Dumbledore's grave ",
+    "fact":"The lake is 5km long and 750 metres wide.",
+    "way":"Lochailort is the nearest train station and is a 5 hour direct train journey from Glasgow Queen Street and 49 min by train from Fort-William. ",
+    "price":"Free",
+    "img1":"https://www.visitbritainshop.com/world/~/media/images/articles/harry%20potter%20filming%20locations%20guide/loch-elit.ashx"
+},    
+{
+    "name":"Train line between Corrour and Rannoch stations ",
+    "movie":"Harry Potter and the Half-Blood Prince ",
+    "shot":"During the shots of Hogwarts Express you can see a hut, which is approximately 1 mile from Corrour Station in the direction of Rannoch. ",
+    "fact":"The guest house at Corrour is the highest point on the West Highland train Line. It is 17 miles from the nearest public road and only accessible by train or by foot. ",
+    "way":"Corrour train station is a 3 hour direct train journey from Glasgow Queen Street and 51 min by train from Fort-William.  ",
+    "price":"Free ",
+    "img1":"https://www.visitbritainshop.com/world/~/media/images/articles/harry%20potter%20filming%20locations%20guide/corrour-and-rannoch.ashx"
+},    
+{
+    "name":"Loch Arkaig ",
+    "movie":"Harry Potter and the Deathly Hallows Part 2 ",
+    "shot":"Exterior shots of dragon flight were filmed at Loch Arkaig.",
+    "fact":"In 1746, Jacobite treasures were said to have been hidden here. ",
+    "way":"Fort William is the nearest train station with daily train services operating between Glasgow and Fort William ",
+    "price":"Free ",
+    "img1":"https://ichef.bbci.co.uk/news/410/cpsprodpb/7D41/production/_93056023_0d71f36e-f6b7-4dd7-9d2e-d97991974233.jpg"
+},    
+{
+    "name":"Lochaber Rural Complex ",
+    "movie":"Harry Potter and the Prisoner of Azkaban ",
+    "shot":"The production crew rented a rural complex from March – July 2013. The weather was horrendous at this time, which forced the production crew to shoot some of the scenes from Harry Potter and the Prisoner of Azkaban inside the complex, which was also used as an office space. ",
+    "fact":"You can visit the Old Inverlochy Castle nearby. Although now a ruin, this was one of the most important castles in Scottish history and was the backdrop for two major historical events, the first and second battles of Inverlochy",
+    "way":"Fort William is the nearest train station with daily train services operating between Glasgow and Fort William. ",
+    "price":"Free ",
+    "img1":"https://media1.popsugar-assets.com/files/thumbor/rw_ph_A7x2iK8a9Qkc1HrRwY2LM/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2018/01/04/825/n/1922398/addurlCsjQJ9/i/Lochaber-Rural-Complex-Scotland.jpg"
+},    
+{
+    "name":"The Jacobite Steam Train ",
+    "movie":"All Movies ",
+    "shot":"The Hogwarts Express ",
+    "fact":"The Jacobite Steam Train stops en route to Mallaig at the village of Glenfinnan (see below). Beyond Glenfinnan are the beautiful villages of Lochailort, Arisaig, Morar and Mallaig. The service runs from early May to late October. It departs at 10:15am and 2.30pm. ",
+    "way":"It is advisable to arrive in Fort William the day before you travel on the Jacobite. Trains run daily from Glasgow to Fort William ",
+    "price":"Isle of Skye tour & Jacobite Steam Train journey - a 3 day tour costs £329 ",
+    "img1":"https://m.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/10/15/Pictures/_240da25e-b1bf-11e7-b6fd-382ae8cf2ee4.jpg"
+} 
+]

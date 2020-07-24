@@ -1,0 +1,102 @@
+[
+    {
+    "name":"Durham Cathedral",
+    "movie":"Harry Potter and the Philosopher's Stone, the Chamber of Secrets and the Prisoner of Azkaban. ",     
+    "shot":"Durham Cathedral has been used to shoot various exterior and interior shots of Hogwarts.",
+    "fact":"Durham Cathedral was founded in 1093 and is home to the Shrine of St Cuthbert. The Cathedral was proclaimed a World Heritage Site in 1986.",
+    "way":"Durham station.",
+    "price":"Guided tours of the Cathedral take place two or three times a day and cost £5 per person. Admission to the Tower: Adults £5, Children (under 16) £2.50 Other areas of the cathedral are free to visit",
+    "img1":"https://almostginger.com/wp-content/uploads/2019/09/9140262.jpg"
+},
+{
+    "name":"Alnwick Castle",
+    "movie":"Harry Potter and the Philosopher's Stone and the Chamber of Secrets",
+    "shot":"Alnwick Castle has been used for exterior shots of Hogwarts.",
+    "fact":"Alnwick Castle is the second largest inhabited castle in England. It has been a home to the dukes of Northumberland for over 700 years.",
+    "way":"The East Coast mainline from London to Edinburgh stops at Alnmouth, which is four miles from Alnwick. A taxi or bus (X18) can be taken from Alnmouth.",
+    "price":"Adult £23.85, Children (5-16 years) £9.88",
+    "img1":"https://i1.wp.com/almostginger.com/wp-content/uploads/2018/01/PA270133.jpg?fit=1024%2C592&ssl=1"
+},
+{
+    "name":"Malham Cove ",
+    "movie":"Harry Potter and the Deathly Hallows Part 1 ",
+    "shot":"The rocky camp where Harry and Hermione hide from Voldemort. ",
+    "fact":"Malham Cove is a natural limestone rock formation situated 1km north of the village of Malham. The top of the cove consists of a uniquely shaped rock formation which was made by the river that once ran over it. ",
+    "way":"The nearest train station is Gargrave, which is about 7 miles away from Malham. Frequent services to Skipton are available from Leeds and Bradford. ",
+    "price":"Free ",
+    "img1":"https://c8.alamy.com/comp/M16PX7/the-limestone-pavement-at-the-top-of-malham-cove-in-the-yorkshire-M16PX7.jpg"
+},    
+{
+    "name":"New College ",
+    "movie":"Harry Potter and the Goblet of Fire ",
+    "shot":"Where everyone sports the badges during the Triwizard Tournament",
+    "fact":"Every year during the Easter holidays a 3 day murder mystery event is hosted at the Cloisters. During the 3 days there are academic activities, forensic science workshops and a formal dinner.",
+    "way":"Oxford is easily accessible by train, New College is a 1 mile walk away from Oxford train station.  ",
+    "price":"£3 ",
+    "img1":"https://media-cdn.tripadvisor.com/media/photo-s/01/ba/fc/9a/new-college-old-quad.jpg"
+},    
+{
+    "name":"Lacock Abbey ",
+    "movie":"Harry Potter and the Philosopher's Stone and the Chamber of Secrets ",
+    "shot":"The Abbey lends itself as the setting for Professor Snape's class on potions. ",
+    "fact":"The Abbey was originally built by Lady Ela the countess of Salisbury during the reign of Henry III. It prospered well through the Middle Ages thanks to its income from the wool produced on the profitable farmland. ",
+    "way":"The closest train station, Melksham, is less than 2h away from London Paddington but you will have to change at Swindon.  ",
+    "price":"A day tour of Lacock including return bus travel and a visit to Salisbury and Bath costs £54 for adults and £44 for children",
+    "img1":"https://whatshotblog.com/wp-content/uploads/2018/12/Harry-Potter-in-Lacock-6.jpg "
+},    
+{
+    "name":"Virginia Water ",
+    "movie":"Harry Potter and the Prisoner of Azkaban and the Goblet of Fire",
+    "shot":"Virginia Water was used to represent Hogwarts’ lake where Harry rode on the Hippogriff in the Prisoner of Azkaban and where Hermione passed on messages to Harry and Ron in the Goblet of Fire.",
+    "fact":"The lake was drained during the second world war as it was feared its obvious shape would give away the location of Windsor. ",
+    "way":"The Virginia Water train station is on the main line to Waterloo and passes through Staines, Richmond and Clapham Junction.  ",
+    "price":"Free ",
+    "img1":"https://in.bookmyshow.com/entertainment/wp-content/uploads/2016/12/Hogwarts-Lake.jpg "
+},    
+{
+    "name":"Goathland Train Station ",
+    "movie":"Harry Potter and the Philosopher's Stone ",
+    "shot":"The station acts as Hogsmeade Station, the main station for Hogwarts.",
+    "fact":"The village of Goathland was the main setting for the British soap opera Heartbeat.",
+    "way":"Trains from Whitby (£16 return) and Pickering (£20 return) offer regular services to Goathland station. ",
+    "price":"Free ",
+    "img1":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goathland_station.jpg/300px-Goathland_station.jpg"
+},    
+{
+    "name":"Ashridge Wood ",
+    "movie":"Harry Potter and the Goblet of Fire ",
+    "shot":"The Woods where the Quidditch World Cup is held.",
+    "fact":"Ashridge Wood is famous for its range of flowering plants and trees, making the woods a pleasant location for walks. ",
+    "way":"Ashridge Wood is located half-way between Newbury station and Didcot station and easily accessible via the A34 and a 15 min drive. Taxis are available at both stations and won't cost you more than £20. ",
+    "price":"Free ",
+    "img1":"https://live.staticflickr.com/5505/10172925104_aa26ed57d5_b.jpg"
+},    
+{
+    "name":"Seven Sisters Country Park ",
+    "movie":"Harry Potter and the Goblet of Fire",
+    "shot":"The Seven Sisters cliffs were used for spectacular shots where Harry Potter walks up the hill to find the boots that transport him to the Quidditch World Cup.",
+    "fact":"The Seven Sisters, the cliffs that give the park its name, are entirely made of chalk from the English Channel. In movies they are often used as stand-in for the White Cliffs of Dover since they are relatively free of modern architecture",
+    "way":"There are regular rail services from London to Brighton, Seaford and Eastbourne ",
+    "price":"Free ",
+    "img1":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Seven_Sisters_cliffs_and_the_coastguard_cottages%2C_from_Seaford_Head_showing_Cuckmere_Haven_%28looking_east_-_2003-05-26%29.jpg"
+},    
+{
+    "name":"Hardwick Hall ",
+    "movie":"Harry Potter and the Deathly Hallows ",
+    "shot":"Hardwick Hall is the main setting for the Malfoy Mansion, the Deatheaters’ main hideout. ",
+    "fact":"Hardwick Hall was one of the first buildings of its era to be built in a Renaissance style, and was originally built to display the financial wealth of its owner. ",
+    "way":"The closest train station is Chesterfield. From there you can pick up a taxi or catch the Pronto bus from Chesterfield coach station. ",
+    "price":"Adult £12.60 ,Children £6.30 ",
+    "img1":"https://www.visitbritainshop.com/world/~/media/images/articles/harry%20potter%20filming%20locations%20guide/hardwick-hall.ashx"
+},    
+{
+    "name":"Gloucester Cathedral ",
+    "movie":"Harry Potter and the Philosopher's Stone, the Chamber of Secrets, and the Half Blood Prince ",
+    "shot":"The Cathedral’s Cloisters are used as various settings for Hogwarts' interiors. ",
+    "fact":"The glass windows dating back to 1350 depict some of the earliest evidence of sports such as golf and medieval football. ",
+    "way":"Gloucester station is the closest train station. It is only a 10 min walk to get from the station to the cathedral. ",
+    "price":"Free",
+    "img1":"https://aleteiaen.files.wordpress.com/2019/05/web3-lead-gloucester-cathedral-wikipedia.jpg?quality=100&strip=all "
+}
+
+]

@@ -1,0 +1,107 @@
+[
+    {
+        
+        "name":"Australia House",
+        "movie":"Harry Potter and the Philosopher’s Stone",
+        "shot":"The interior shots of Gringotts, the wizard bank run by goblins, were filmed inside Australia House.",
+        "fact":"Australia House was opened by King George V in 1918 and is the home of the Australian High Commission.",
+        "way":"Temple Station , 5 min walk",
+        "price":"Free",
+        "img1":"https://www.visitbritainshop.com/world/~/media/images/articles/harry%20potter%20filming%20locations%20guide/australia-house.ashx"
+    },
+    {
+        
+        "name":"King's Cross Station",
+        "movie":"All movies",
+        "shot":"King’s Cross is the station where students board the Hogwarts Express on Platform 9 ¾.",
+        "fact":"For filming, platforms 4 and 5 were renumbered 9 and 10. At the station today, you'll find the hidden access to platform 9 3/4, complete with half a luggage cart disappearing into the wall!",
+        "way":"King's Cross St. Pancras, 1 min walk",
+        "price":"Free",
+        "img1":"https://www.visitbritainshop.com/world/~/media/images/articles/harry%20potter%20filming%20locations%20guide/kings-cross.ashx"
+    },
+    {
+        "name":"Millennium Bridge",
+        "movie":"Harry Potter and the Half-Blood Prince",
+        "shot":"Harry Potter and The Half-Blood Prince opens with a dramatic sequence of the London Millennium Footbridge collapsing.",
+        "fact":"Construction of the real-life Millennium Bridge started in late 1998, with the main work starting on 28 April 1999.",
+        "way":"Blackfriars, 7 min walk",
+        "price":"Free",
+        "img1":"https://totally-london.net/wp-content/uploads/2018/01/Millenium-Bridge-Ausblick-St-Pauls-Cathedral-Tag-Cover-1080x675.jpg"
+    },
+    {
+        "name":"London City Hall",
+        "movie":"Harry Potter and the Half-Blood Prince",
+        "shot":"London City Hall, the headquarters of the Greater London Authority, was featured in one of the first scenes of the Half-Blood Prince with exterior shots.",
+        "fact":"This building's appearance in Harry Potter and the Half-Blood Prince constitutes an anachronism. It was only built in 2002.",
+        "way":"London Bridge, 4 min walk",
+        "price":"Free",
+        "img1":"https://vignette.wikia.nocookie.net/harrypotter/images/0/09/2011-05-15_105043.png/revision/latest/scale-to-width-down/350?cb=20110515052341"
+    },
+    {
+        "name":"Great Scotland Yard",
+        "movie":"Harry Potter and the Half-Blood Prince",
+        "shot":"It was on this corner, at the junction of Scotland Place and Great Scotland Yard, that Harry and Mr Weasley entered the phone box to descend into the Ministry of Magic.",
+        "fact":"Unfortunately for those who seek to recreate the scene there has never been a phone box at this junction. The one in the film was a special prop that was removed once filming had finished.",
+        "way":"Embankment, 4 min walk",
+        "price":"Free",
+        "img1":"https://fastly.4sqi.net/img/general/558x200/56761927_SuundZxtQt63E_CdDVJG2Llke15lSD8pPId3fL0fMe0.png"
+    },
+    {
+        "name":"Claremont Square",
+        "movie":"Harry Potter and the Order of the Phoenix, Deathly Hallows Part 1",
+        "shot":"In Harry Potter and the Order of the Phoenix, the rows of houses on Claremont Square appear as the exterior of Grimmauld Place. Screenwriters were inspired by the façade of Claremont Square to film the Grimmauld Place scenes on a set.",
+        "fact":"The strange shape of Claremont Square is due to the fact that, back in the 18th century, there was a water reservoir in the square. Following the construction of a larger one nearby, houses were built and, later, the reservoir emptied and covered with grass, hence its steep incline and rather wizardly shape.",
+        "way":"Angel, 5 min walk",
+        "price":"Free",
+        "img1":"https://i.insider.com/580358e5dd0895b8348b4e39?width=750&format=jpeg&auto=webp"
+    },
+    {
+        "name":"Piccadilly Circus",
+        "movie": "Harry Potter and the Deathly Hallows Part 1",
+        "shot": "Exterior shots where we see Harry, Hermione and Ron rushing through London’s West End.",
+        "fact": "The statue in Piccadilly Circus is named the Shaftesbury Memorial Fountain to honour the philanthropist Lord Shaftesbury, but many call it the Statue of Eros, the Greek god of love. Its creator Alfred Gilbert actually sculpted the statue as an image of Eros’ twin brother Anteros.",       
+        "way": "Piccadilly Circus, 2 min walk",       
+        "price": "Free",
+        "img1":"https://londonphotowalks.uk/wp-content/uploads/2018/03/021-022.jpg"
+    },
+    {
+        "name":"Leadenhall Market",
+        "movie":"Harry Potter and the Philosopher's Stone",
+        "shot":"Leadenhall Market shows up in Harry Potter and the Philosopher's Stone as the exterior for Diagon Alley and the Leaky Cauldron.",
+        "fact":"Leadenhall Market, built in 1881, is London's most beautiful Victorian market.",
+        "way":" Monument, 3 min walk",
+        "price":"Free",
+        "img1":"https://static.toiimg.com/photo/45967691/.jpg"
+    },
+    {
+        "name":"Reptile House, London Zoo",
+        "movie":"Harry Potter and the Philosopher’s Stone",
+        "shot":"Exterior and interior shots where Harry learns that he can speak to snakes and liberates the Burmese python",
+        "fact":"In the film, the inhabitant of the tank is a Burmese python, however in reality it is home to a black mamba. A plaque beside the enclosure commemorates the famous scene.",
+        "way":"Camden Town, 5 min walk",
+        "price":"Free",
+        "img1":"https://vignette.wikia.nocookie.net/harrypotter/images/3/33/Reptile_House.png/revision/latest/top-crop/width/360/height/450?cb=20131201010251"
+    },
+    {
+        "name":"St Pancras Renaissance Hotel",
+        "movie":" Harry Potter and the Philosopher's Stone",
+        "shot":"St Pancras Renaissance Hotel was used as the entrance to King's Cross station in Harry Potter and The Chamber of Secrets.",
+        "fact":"The Renaissance Hotel has been seen worldwide by millions as a filming location for not only Harry Potter films, but also 102 Dalmatians, Batman, Richard III and others.",
+        "way":" King's Cross St. Pancras, 5 min walk",
+        "price":"Free",
+        "img1":"https://storiedhotels.com/wp-content/uploads/2018/09/St-Pancras-Hotel.jpg"
+    },
+    {
+        "name":"Harry Potter Studio Tour ",
+        "movie":"All Movies ",
+        "shot":"Mostly shots of all movies  ",
+        "fact":"No Potter fan’s trip to Britain would be complete without a visit to the Warner Bros’ Studio Tour, located at the Leavesden Studios near London. The award-winning tour gives you access to spectacular sets from the Harry Potter movies and a fascinating behind the scenes look at their production. ",
+        "way":"Watford Junction is the nearest train station with direct services from London Euston (20 min journey) and Birmingham New Street (1 hour journey). A shuttle bus is available from Watford Junction to the Studio Tour, which takes about 15 minutes and costs £2 return ",
+        "price":"Adults - from £50,Children (5-15) - from £45,Toddlers (3-4) - £20,Infants (under 3) - Free ",
+        "img1":"https://www.visitbritainshop.com/britain-travel-shop-world/~/media/4f08d16b3d37435396d432a0806b1054.ashx?as=0&h=349&w=620"
+    } 
+         
+        
+
+]
+    
